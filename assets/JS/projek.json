@@ -1,0 +1,26 @@
+[
+  {
+    "img": "./assets/IMG/projek_ojk.png",
+    "title": "List OJK",
+    "description": "List website dan aplikasi perusahaan yang sudah terdaftar di ojk",
+    "link": "https://github.com/yadi-developer/ojk_list",
+    "preview": "https://yadi-developer.github.io/ojk_list/"
+  },
+  {
+    "title": "Ai Qur'an",
+    "description": "Website yang menyediakan bacaan Al-Qur'an beserta Murotal Al-Qur'an ",
+    "link": "https://github.com/yadi-developer/ai_al-quran",
+    "preview": "https://ai-al-quran.vercel.app/"
+  },
+  {
+    "title": "IP Tracker",
+    "description": "Tools python yang di gunakan untuk melacak IPv4",
+    "link": "https://github.com/yadi-developer/ip_tracker"
+  },
+  {
+    "title": "Hadits Sahih",
+    "description": "Website berisi kumpulan hadits - hadits sahih dibuat menggunakan VUE JS",
+    "link": "https://github.com/yadi-developer/hadist",
+    "preview": "https://hadist.vercel.app/"
+  }
+]
