@@ -22,5 +22,12 @@
     "description": "Website berisi kumpulan hadits - hadits sahih dibuat menggunakan VUE JS",
     "link": "https://github.com/yadi-developer/hadist",
     "preview": "https://hadist.vercel.app/"
+  },
+  {
+    "title": "Kamus Besar Bahasa Indonesia",
+    "description": "Website ini hanya bertujuan untuk edukasi, berisi tentang arti kata bahasa Indonesia",
+    "preview": "https://kbbi-yadi.vercel.app/",
+    "link": "https://github.com/yadi-developer/KBBI_Yadi",
+    "img": "https://kbbi-yadi.vercel.app/assets/img/kbbi_yad.png"
   }
 ]
