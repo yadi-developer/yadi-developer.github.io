@@ -29,5 +29,10 @@
     "preview": "https://kbbi-yadi.vercel.app/",
     "link": "https://github.com/yadi-developer/KBBI_Yadi",
     "img": "https://kbbi-yadi.vercel.app/assets/img/kbbi_yad.png"
-  }
+  },
+{
+"title": "Currency API",
+"description": "Web API ini menampilkan harga rupiah ke satuan uang luar negeri bersumber dari bi.go.id",
+"link": "https://github.com/yadi-developer/currency_api"
+}
 ]
